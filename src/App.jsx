@@ -1,4 +1,3 @@
-cls
 import './index.css'
 import heroImg from './assets/public/hero.png';
 import Search from './components/Search';
