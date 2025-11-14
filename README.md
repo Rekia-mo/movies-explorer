@@ -23,5 +23,6 @@ A dynamic movie discovery web application built with **React** and **Tailwind CS
 ## Installation 💻
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Rekia-mo/movies-explorer>
+liveDemo: <https://rekia-mo.github.io/movies-explorer/>
 
